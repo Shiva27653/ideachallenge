@@ -1,0 +1,26 @@
+# node / npm
+node_modules/
+package-lock.json
+
+# env / secrets
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build output
+dist/
+
+# Python
+venv/
+__pycache__/
+*.pyc
